@@ -73,4 +73,7 @@ public class MainActivity extends Activity {
 	public void skK(){
 		System.out.println("Happy every day~");
 	}
+	public void s(){
+		System.out.println("Happy every day~");
+	}
 }
