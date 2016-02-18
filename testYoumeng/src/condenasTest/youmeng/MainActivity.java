@@ -64,5 +64,10 @@ public class MainActivity extends Activity {
 	// filter.addAction("GN");
 	// this.registerReceiver(myBroadcastReceiver, filter); // 绑定该广播接收者的调
 	// }
-
+    public void she(){
+		System.out.println("Happy every day~");
+	}
+	public void skII(){
+		System.out.println("Happy every day~");
+	}
 }
