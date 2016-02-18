@@ -79,4 +79,7 @@ public class MainActivity extends Activity {
 	public void k(){
 		System.out.println("Happy every day~");
 	}
+	public void kO(){
+		System.out.println("Happy every day~");
+	}
 }
