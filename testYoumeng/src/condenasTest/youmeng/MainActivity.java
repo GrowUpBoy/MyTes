@@ -70,4 +70,7 @@ public class MainActivity extends Activity {
 	public void skII(){
 		System.out.println("Happy every day~");
 	}
+	public void skK(){
+		System.out.println("Happy every day~");
+	}
 }
