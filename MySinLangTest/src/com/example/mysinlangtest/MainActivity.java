@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		
+		int k=0;
 	}
 	public void creatWeoBo(){
 		mAuthInfo = new AuthInfo(this, Constants.APP_KEY, 
