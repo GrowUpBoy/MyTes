@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		int k=0;
+		int weibo=1;
 	}
 	public void creatWeoBo(){
 		mAuthInfo = new AuthInfo(this, Constants.APP_KEY, 
