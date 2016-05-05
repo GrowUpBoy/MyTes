@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 		
 		int k=0;
 		int weibo=1;
+		int weibo2=2;
 	}
 	public void creatWeoBo(){
 		mAuthInfo = new AuthInfo(this, Constants.APP_KEY, 
