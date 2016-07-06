@@ -15,6 +15,7 @@ public class IntentManager {
 	public static IntentManager getIntentManager() {
 		if (intentManager == null) {
 			intentManager = new IntentManager();
+			//TEST
 			intentMap = new HashMap<String, Intent>();
 		}
 
