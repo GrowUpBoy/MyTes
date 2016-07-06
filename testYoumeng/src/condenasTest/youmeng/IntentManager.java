@@ -8,6 +8,12 @@ public class IntentManager {
 	private static IntentManager intentManager;
 	private static HashMap<String, Intent> intentMap;
 	private String gn="now"
+	private TextView tv;
+	
+	public void main[]{
+		
+	}
+	
 
 	private IntentManager() {
 	}
